@@ -1,0 +1,1 @@
+export const GET_NEWS_ENDPOINT = `https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=d509ab85b7bb43099b9ea41b842f6331`
